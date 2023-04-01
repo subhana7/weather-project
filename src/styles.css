@@ -62,7 +62,8 @@ body {
     right: -50px;
   }
 
-  .button {
+  .design {
     color: white;
     background-color: green;
+    border: none;
   }
