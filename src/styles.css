@@ -61,3 +61,7 @@ body {
     top: -34px;
     right: -50px;
   }
+
+  .current-first {
+    color: white;
+  }
