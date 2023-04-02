@@ -71,3 +71,8 @@ body {
     width: 15%;
     padding: 6px 12px 6px 12px;
   }
+
+  .nameCode {
+    display: block;
+    margin: 0 auto;
+  }
